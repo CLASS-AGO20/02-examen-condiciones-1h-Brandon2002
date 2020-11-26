@@ -22,6 +22,7 @@ export default class App {
         }return resultado;
     }
 
+    
 }
 
 let app = new App();
